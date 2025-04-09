@@ -15,6 +15,8 @@ const partnerSites = [
   { name: "용인 푸르지오 원클러스터 2단지", url: "https://www.beyinegzersizi.com" },
   { name: "도안 벽산블루밍", url: "https://www.abcya4.com/" },
   { name: "군산 경장동 중해마루힐", url: "https://www.cssdesign.kr/" },
+  { name: "청주 테크노 레이원시티", url: "https://eliasart.kr/" },
+  { name: "천안 쌍용 센트럴타워", url: "https://www.vaaclubs.com/" },
   { name: "평택화양 동문디이스트", url: "https://www.verficktescheisse.com" },
 ];
 
@@ -52,8 +54,8 @@ const Footer = () => {
         <div className={styles.mobileWrapper}>
           {/* 상단 로고 */}
           <div className={styles.mobileLogo}>
-            <h2>SUJAIN</h2>
-            <p>평택 브레인시티 수자인</p>
+            <h2>천안 쌍용 센트럴타워</h2>
+            <p>천안 쌍용 센트럴타워</p>
           </div>
 
           {/* 안내문구 */}
@@ -112,7 +114,7 @@ const Footer = () => {
           {/* COPYRIGHT */}
           <div className={styles.mobileCopyright}>
             <p>
-              COPYRIGHTⓒ 2024 평택 브레인시티 수자인 INC. ALL RIGHTS RESERVED.
+              COPYRIGHTⓒ 2025 천안 쌍용 센트럴타워 INC. ALL RIGHTS RESERVED.
             </p>
           </div>
         </div>
@@ -120,7 +122,7 @@ const Footer = () => {
         <>
           <div className={styles.desktopWrapper}>
             <div className={styles.leftSide}>
-              <h2>SUJAIN 평택 브레인시티 수자인</h2>
+              <h2>천안 쌍용 센트럴타워</h2>
               <p>
                 본 웹사이트에서 사용된 사진 및 이미지는 소비자의 이해를 돕기 위한
                 것으로 실제와 다를 수 있습니다.
@@ -167,7 +169,7 @@ const Footer = () => {
           </div>
           <div className={styles.desktopCopyright}>
             <p>
-              COPYRIGHTⓒ 2024 평택 브레인시티 수자인 INC. ALL RIGHTS RESERVED.
+              COPYRIGHTⓒ 2025 천안 쌍용 센트럴타워 INC. ALL RIGHTS RESERVED.
             </p>
           </div>
         </>
