@@ -58,14 +58,14 @@ const ComplexGuide3 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>천안 쌍용 센트럴타워 - 커뮤니티</title>
+        <title>이천 부발역 에피트 - 커뮤니티</title>
         <meta
           name="description"
-          content="천안 쌍용 센트럴타워의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다."
+          content="이천 부발역 에피트의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다."
         />
         <meta
           name="keywords"
-          content="천안 쌍용 센트럴타워, 쌍용 센트럴타워"
+          content="이천 부발역 에피트, 부발역 에피트"
         />
         <link
           rel="canonical"
@@ -75,11 +75,11 @@ const ComplexGuide3 = () => {
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="천안 쌍용 센트럴타워 - 커뮤니티"
+          content="이천 부발역 에피트 - 커뮤니티"
         />
         <meta
           property="og:description"
-          content="천안 쌍용 센트럴타워의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다."
+          content="이천 부발역 에피트의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다."
         />
         <meta
           property="og:image"
@@ -89,17 +89,17 @@ const ComplexGuide3 = () => {
           property="og:url"
           content="https://www.daincounseling.co.kr/ComplexGuide/community"
         />
-        <meta property="og:site_name" content="천안 쌍용 센트럴타워" />
+        <meta property="og:site_name" content="이천 부발역 에피트" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="천안 쌍용 센트럴타워 - 커뮤니티"
+          content="이천 부발역 에피트 - 커뮤니티"
         />
         <meta
           name="twitter:description"
-          content="천안 쌍용 센트럴타워의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다."
+          content="이천 부발역 에피트의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다."
         />
         <meta
           name="twitter:image"
@@ -116,8 +116,8 @@ const ComplexGuide3 = () => {
 					{
 			"@context": "https://schema.org",
 			"@type": "WebPage",
-			"name": "천안 쌍용 센트럴타워 - 커뮤니티",
-			"description": "천안 쌍용 센트럴타워의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다.",
+			"name": "이천 부발역 에피트 - 커뮤니티",
+			"description": "이천 부발역 에피트의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다.",
 			"url": "https://www.daincounseling.co.kr/ComplexGuide/community"
 					}
 					`}
@@ -130,17 +130,17 @@ const ComplexGuide3 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        천안 쌍용 센트럴타워 - 커뮤니티
+        이천 부발역 에피트 - 커뮤니티
       </h1>
       <p className={styles.screenReaderOnly}>
-        천안 쌍용 센트럴타워의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티
+        이천 부발역 에피트의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티
         시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한
         다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을
         높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다.
       </p>
 
       <div className={styles.textBox}>
-        <div>천안 쌍용 센트럴타워이 눈부신 가치 위에</div>
+        <div>이천 부발역 에피트이 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -150,7 +150,7 @@ const ComplexGuide3 = () => {
           isImage2Loaded ? styles.showImage2 : ""
         }`}
         src={page1}
-        alt="천안 쌍용 센트럴타워커뮤니티안내-image1"
+        alt="이천 부발역 에피트커뮤니티안내-image1"
         onLoad={handleImageLoad} // 이미지 로드 후 애니메이션 실행
       />
 

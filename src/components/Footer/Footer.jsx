@@ -62,8 +62,8 @@ const Footer = () => {
         <div className={styles.mobileWrapper}>
           {/* 상단 로고 */}
           <div className={styles.mobileLogo}>
-            <h2>천안 쌍용 센트럴타워</h2>
-            <p>천안 쌍용 센트럴타워</p>
+            <h2>이천 부발역 에피트</h2>
+            <p>이천 부발역 에피트</p>
           </div>
 
           {/* 안내문구 */}
@@ -122,7 +122,7 @@ const Footer = () => {
           {/* COPYRIGHT */}
           <div className={styles.mobileCopyright}>
             <p>
-              COPYRIGHTⓒ 2025 천안 쌍용 센트럴타워 INC. ALL RIGHTS RESERVED.
+              COPYRIGHTⓒ 2025 이천 부발역 에피트 INC. ALL RIGHTS RESERVED.
             </p>
           </div>
         </div>
@@ -130,7 +130,7 @@ const Footer = () => {
         <>
           <div className={styles.desktopWrapper}>
             <div className={styles.leftSide}>
-              <h2>천안 쌍용 센트럴타워</h2>
+              <h2>이천 부발역 에피트</h2>
               <p>
                 본 웹사이트에서 사용된 사진 및 이미지는 소비자의 이해를 돕기 위한
                 것으로 실제와 다를 수 있습니다.
@@ -177,7 +177,7 @@ const Footer = () => {
           </div>
           <div className={styles.desktopCopyright}>
             <p>
-              COPYRIGHTⓒ 2025 천안 쌍용 센트럴타워 INC. ALL RIGHTS RESERVED.
+              COPYRIGHTⓒ 2025 이천 부발역 에피트 INC. ALL RIGHTS RESERVED.
             </p>
           </div>
         </>

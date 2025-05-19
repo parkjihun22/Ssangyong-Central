@@ -63,14 +63,14 @@ const FloorPlan6 = () => {
 
 			<div className={styles.textBox}>
 				<div>천안 쌍용역의 눈부신 가치 위에</div>
-				<div>천안 쌍용 센트럴타워의 새로운 자부심으로 찾아옵니다.</div>
+				<div>이천 부발역 에피트의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
 			{/* 이미지에 애니메이션 효과 추가 */}
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="천안 쌍용 센트럴타워 평면도5"
+				alt="이천 부발역 에피트 평면도5"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 
