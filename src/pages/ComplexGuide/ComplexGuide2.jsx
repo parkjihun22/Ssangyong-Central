@@ -58,14 +58,14 @@ const ComplexGuide1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>이천 부발역 에피트 - 호수배치도</title>
+        <title>회천중앙역 로제비앙그랜드센텀 - 호수배치도</title>
         <meta
           name="description"
           content="호수 배치도 페이지는 각 세대의 위치와 평면도를 제공합니다. 고객들이 원하는 호수를 찾고 세부적인 배치 정보를 통해 자신의 집을 상상할 수 있게 돕습니다. 각 호수의 특징과 장점을 살펴보며 선택의 폭을 넓힐 수 있습니다."
         />
         <meta
           name="keywords"
-          content="이천 부발역 에피트, 부발역 에피트"
+          content="회천중앙역 로제비앙그랜드센텀, 회천중앙역 로제비앙"
         />
         <link
           rel="canonical"
@@ -75,7 +75,7 @@ const ComplexGuide1 = () => {
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="이천 부발역 에피트 - 호수배치도"
+          content="회천중앙역 로제비앙그랜드센텀 - 호수배치도"
         />
         <meta
           property="og:description"
@@ -89,13 +89,13 @@ const ComplexGuide1 = () => {
           property="og:url"
           content="https://www.daincounseling.co.kr/ComplexGuide/detailintro"
         />
-        <meta property="og:site_name" content="이천 부발역 에피트" />
+        <meta property="og:site_name" content="회천중앙역 로제비앙그랜드센텀" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="이천 부발역 에피트 - 호수배치도"
+          content="회천중앙역 로제비앙그랜드센텀 - 호수배치도"
         />
         <meta
           name="twitter:description"
@@ -116,7 +116,7 @@ const ComplexGuide1 = () => {
 					{
 			"@context": "https://schema.org",
 			"@type": "WebPage",
-			"name": "이천 부발역 에피트 - 호수배치도",
+			"name": "회천중앙역 로제비앙그랜드센텀 - 호수배치도",
 			"description": "호수 배치도 페이지는 각 세대의 위치와 평면도를 제공합니다. 고객들이 원하는 호수를 찾고 세부적인 배치 정보를 통해 자신의 집을 상상할 수 있게 돕습니다. 각 호수의 특징과 장점을 살펴보며 선택의 폭을 넓힐 수 있습니다.",
 			"url": "https://www.daincounseling.co.kr/ComplexGuide/detailintro"
 					}
@@ -130,7 +130,7 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        이천 부발역 에피트 - 호수배치도
+        회천중앙역 로제비앙그랜드센텀 - 호수배치도
       </h1>
       <p className={styles.screenReaderOnly}>
         호수 배치도 페이지는 각 세대의 위치와 평면도를 제공합니다. 고객들이
@@ -139,7 +139,7 @@ const ComplexGuide1 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>이천 부발역 에피트가 눈부신 가치 위에</div>
+        <div>회천중앙역 로제비앙그랜드센텀가 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -149,7 +149,7 @@ const ComplexGuide1 = () => {
           isImage2Loaded ? styles.showImage2 : ""
         }`}
         src={page1}
-        alt="이천 부발역 에피트호수배치도-image1"
+        alt="회천중앙역 로제비앙그랜드센텀호수배치도-image1"
         onLoad={handleImageLoad} // 이미지 로드 후 애니메이션 실행
       />
 

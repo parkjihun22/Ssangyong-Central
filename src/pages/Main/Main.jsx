@@ -191,7 +191,7 @@ const Main = () => {
           )}
 
           <div className={styles.imageContainer}>
-            <img src={mainImage} className={styles.mainImage} alt="이천 부발역 에피트-mainimage1" />
+            <img src={mainImage} className={styles.mainImage} alt="회천중앙역 로제비앙그랜드센텀-mainimage1" />
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox}>
               <div className={styles.mainImageTextSub}>
@@ -200,7 +200,7 @@ const Main = () => {
               <div className={styles.mainImageTitleBox}>
                 <div className={styles.mainImageText}>천안이 기다린 가장 착한 아파트</div>
                 <div className={styles.mainImageLine}></div>
-                <div className={styles.mainImageText}>이천 부발역 에피트</div>
+                <div className={styles.mainImageText}>회천중앙역 로제비앙그랜드센텀</div>
               </div>
               {/* 기존 관심고객 등록 링크 대신 방문예약 버튼 클릭 시 팝업 오픈 */}
               <div>
@@ -211,7 +211,7 @@ const Main = () => {
                   <img
                     src={subpinkimg}
                     className={styles.subPinkImg}
-                    alt="이천 부발역 에피트 관심고객등록"
+                    alt="회천중앙역 로제비앙그랜드센텀 관심고객등록"
                   />
                 </button>
               </div>
@@ -230,7 +230,7 @@ const Main = () => {
                   - 용곡지구 도시개발등으로 인근 발전 가능성 多 <br />
                   - 쌍용역 1호선 도보 10분이내 근접 <br />
                   - 당 사업지 반경 도보권내 수곡초, 신방중 위치로 안심학세권 <br />
-                  - 모두를 누리는 이천 부발역 에피트
+                  - 모두를 누리는 회천중앙역 로제비앙그랜드센텀
                 </div>
                 <div className={styles.text4}>
                   <a href="https://naver.me/55rUFpYq" target="_black">
@@ -239,7 +239,7 @@ const Main = () => {
                 </div>
               </div>
               <div className={styles.menuBox}>
-                <img src={section1_Image1} alt="이천 부발역 에피트브랜드소개-image2" />
+                <img src={section1_Image1} alt="회천중앙역 로제비앙그랜드센텀브랜드소개-image2" />
                 <Link to="/Brand/video" className={styles.btn}>
                   브랜드 소개 {">"}
                 </Link>
@@ -252,17 +252,17 @@ const Main = () => {
               <div className={styles.textBox}>
                 <div className={styles.title}>
                   소수만 누릴 수 있는<br />
-                  <span>착한가격의 아파트 이천 부발역 에피트</span>
+                  <span>착한가격의 아파트 회천중앙역 로제비앙그랜드센텀</span>
                 </div>
                 <div className={styles.subTitle}>
                   <div className={styles.textLine}></div>
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해<br />
-                    이천 부발역 에피트이 함께합니다
+                    회천중앙역 로제비앙그랜드센텀이 함께합니다
                   </div>
                 </div>
               </div>
-              <img src={section8Img3} alt="이천 부발역 에피트입지환경소개-image2" />
+              <img src={section8Img3} alt="회천중앙역 로제비앙그랜드센텀입지환경소개-image2" />
             </div>
           </div>
 
@@ -273,7 +273,7 @@ const Main = () => {
                   완벽한 생활에서 준비된 미래까지
                 </div>
                 <div className={`${styles.text2} fadeUpRepeat`}>
-                  기대한 모든 프리미엄이<br />이천 부발역 에피트에서 펼쳐집니다
+                  기대한 모든 프리미엄이<br />회천중앙역 로제비앙그랜드센텀에서 펼쳐집니다
                 </div>
                 <div className={`${styles.text3} fadeUpRepeat`}>
                   SPECIAL PLAN
@@ -285,7 +285,7 @@ const Main = () => {
                   주거의 품격과 가치를 높이는 <span>특화설계</span><br />안전한 이동을 위한 세심한 <span>단지설계</span><br />편리한 생활을 위한 최적의 <span>공간설계</span>
                 </div>
               </div>
-              <img src={section2_Image1} alt="이천 부발역 에피트아파트 조감도-image3" />
+              <img src={section2_Image1} alt="회천중앙역 로제비앙그랜드센텀아파트 조감도-image3" />
             </div>
           </div>
 
@@ -308,8 +308,8 @@ const Main = () => {
           <div className={styles.section}>
             <div className={styles.section4}>
               <div className={styles.imageBox}>
-                <img src={section4_Image1} alt="이천 부발역 에피트브랜드소개-image4" />
-                <div className={styles.text1}>이천 부발역 에피트</div>
+                <img src={section4_Image1} alt="회천중앙역 로제비앙그랜드센텀브랜드소개-image4" />
+                <div className={styles.text1}>회천중앙역 로제비앙그랜드센텀</div>
                 <div className={styles.text2}>THE NATURAL NOBILITY</div>
                 <div className={styles.text3}>당신의 삶, 그 고귀함이 계속되길</div>
               </div>
@@ -326,7 +326,7 @@ const Main = () => {
   {/* 상단 타이틀 영역 (좌: 제목/부제, 우: 안내문구) */}
   <div className={styles.pcTitleRow}>
     <div className={styles.leftTitle}>
-      <h2>이천 부발역 에피트</h2>
+      <h2>회천중앙역 로제비앙그랜드센텀</h2>
       <p>방문예약</p>
     </div>
     <div className={styles.rightText}>
@@ -385,18 +385,18 @@ const Main = () => {
             <div className={styles.section9}>
               <div className={styles.textBox}>
                 <div className={styles.title}>
-                  이천 부발역 에피트<br />
+                  회천중앙역 로제비앙그랜드센텀<br />
                   <span>견본주택 오시는길</span>
                 </div>
                 <div className={styles.subTitle}>
                   <div className={styles.textLine}></div>
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해<br />
-                    이천 부발역 에피트이 함께합니다
+                    회천중앙역 로제비앙그랜드센텀이 함께합니다
                   </div>
                 </div>
               </div>
-              <img src={map1} alt="이천 부발역 에피트오시는길안내-image1" />
+              <img src={map1} alt="회천중앙역 로제비앙그랜드센텀오시는길안내-image1" />
             </div>
           </div> */}
 
@@ -449,7 +449,7 @@ const Main = () => {
           <Header isChanged={isScroll} />
 
           <div className={styles.imageContainer}>
-            <img src={mobileImageMain} className={styles.mainImage} alt="이천 부발역 에피트mobilemain-image1" />
+            <img src={mobileImageMain} className={styles.mainImage} alt="회천중앙역 로제비앙그랜드센텀mobilemain-image1" />
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox1}>
               <div className={styles.mainImageTextSub1}>
@@ -462,7 +462,7 @@ const Main = () => {
               </div>
               <div className={styles.mainImageTitleBox1}>
                 <div className={styles.mainImageText1}>천안 기다린<br /> 가장 착한 아파트</div>
-                <div className={styles.mainImageText5}>이천 부발역 에피트</div>
+                <div className={styles.mainImageText5}>회천중앙역 로제비앙그랜드센텀</div>
               </div>
             </div>
           </div>
@@ -495,11 +495,11 @@ const Main = () => {
                 <div className={styles.textLine}></div>
                 <div className={styles.subText}>
                   완벽한 비전중심에서 완벽한 주거가치까지 더해<br />
-                  이천 부발역 에피트이 함께합니다
+                  회천중앙역 로제비앙그랜드센텀이 함께합니다
                 </div>
               </div>
             </div>
-            <img src={section8Img3} alt="이천 부발역 에피트mobile입지안내-image1" />
+            <img src={section8Img3} alt="회천중앙역 로제비앙그랜드센텀mobile입지안내-image1" />
           </div>
 
           <div className={styles.container3}>
@@ -509,15 +509,15 @@ const Main = () => {
               </div>
               <div className={`${styles.text2} fadeUpRepeat`}>
                 기대한 모든 프리미엄이<br />
-                이천 부발역 에피트에서 펼쳐집니다
+                회천중앙역 로제비앙그랜드센텀에서 펼쳐집니다
               </div>
               <div className={`${styles.text3} fadeUpRepeat`}>SPECIAL PLAN</div>
               <div className={`${styles.text4} fadeUpRepeat`}>
                 살수록 자부심이 차원이 다른<br />
-                프리미엄 주거라이프를 이천 부발역 에피트 모델하우스에서 확인하세요
+                프리미엄 주거라이프를 회천중앙역 로제비앙그랜드센텀 모델하우스에서 확인하세요
               </div>
             </div>
-            <img src={section2_Image1} alt="이천 부발역 에피트mobile조감도-image1" />
+            <img src={section2_Image1} alt="회천중앙역 로제비앙그랜드센텀mobile조감도-image1" />
           </div>
 
           <div className={styles.container4}>
@@ -543,7 +543,7 @@ const Main = () => {
 
           {/* 모바일 방문예약 섹션 */}
 <div className={styles.mobileVisitContainer}>
-  <h2>이천 부발역 에피트</h2>
+  <h2>회천중앙역 로제비앙그랜드센텀</h2>
   <p className={styles.mobileSubTitle}>방문예약</p>
   <p className={styles.mobileInfoText}>
     방문예약 등록 시 모델하우스 주소 SMS발송 및<br />
@@ -595,7 +595,7 @@ const Main = () => {
 
           {/* <div className={styles.section}>
             <div className={styles.section9}>
-              <img src={mobilemap1} alt="이천 부발역 에피트오시는길안내-mobileimage2" />
+              <img src={mobilemap1} alt="회천중앙역 로제비앙그랜드센텀오시는길안내-mobileimage2" />
             </div>
           </div> */}
 

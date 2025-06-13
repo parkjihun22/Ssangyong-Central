@@ -60,7 +60,7 @@ const Interior3 = () => {
 			<MenuBar contents={menuContents} />
 
 			<div className={styles.textBox}>
-				<div>이천 부발역 에피트가 평택의의 눈부신 가치 위에</div>
+				<div>회천중앙역 로제비앙그랜드센텀가 평택의의 눈부신 가치 위에</div>
 				<div>새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
@@ -68,7 +68,7 @@ const Interior3 = () => {
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="이천 부발역 에피트 인테리어 이미지2"
+				alt="회천중앙역 로제비앙그랜드센텀 인테리어 이미지2"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

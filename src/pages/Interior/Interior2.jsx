@@ -62,22 +62,22 @@ const Interior2 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>이천 부발역 에피트 - 84A인테리어</title>
+        <title>회천중앙역 로제비앙그랜드센텀 - 84A인테리어</title>
         <meta
           name="description"
-          content="84A인테리어 페이지에서는 이천 부발역 에피트의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
+          content="84A인테리어 페이지에서는 회천중앙역 로제비앙그랜드센텀의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
         />
         <meta
           name="keywords"
-          content="이천 부발역 에피트, 부발역 에피트"
+          content="회천중앙역 로제비앙그랜드센텀, 회천중앙역 로제비앙"
         />
         <link rel="canonical" href="https://www.daincounseling.co.kr/Interior/84A" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
-        <meta property="og:title" content="이천 부발역 에피트 - 84A인테리어" />
+        <meta property="og:title" content="회천중앙역 로제비앙그랜드센텀 - 84A인테리어" />
         <meta
           property="og:description"
-          content="84A인테리어 페이지에서는 이천 부발역 에피트의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
+          content="84A인테리어 페이지에서는 회천중앙역 로제비앙그랜드센텀의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
         />
         <meta
           property="og:image"
@@ -87,17 +87,17 @@ const Interior2 = () => {
           property="og:url"
           content="https://www.daincounseling.co.kr/Interior/84A"
         />
-        <meta property="og:site_name" content="이천 부발역 에피트" />
+        <meta property="og:site_name" content="회천중앙역 로제비앙그랜드센텀" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="이천 부발역 에피트 - 84A인테리어"
+          content="회천중앙역 로제비앙그랜드센텀 - 84A인테리어"
         />
         <meta
           name="twitter:description"
-          content="84A인테리어 페이지에서는 이천 부발역 에피트의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
+          content="84A인테리어 페이지에서는 회천중앙역 로제비앙그랜드센텀의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
         />
         <meta
           name="twitter:image"
@@ -114,8 +114,8 @@ const Interior2 = () => {
 				 {
 			 "@context": "https://schema.org",
 			 "@type": "WebPage",
-			 "name": "이천 부발역 에피트 - 84A84A인테리어",
-			 "description": "84A인테리어 페이지에서는 이천 부발역 에피트의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.",
+			 "name": "회천중앙역 로제비앙그랜드센텀 - 84A84A인테리어",
+			 "description": "84A인테리어 페이지에서는 회천중앙역 로제비앙그랜드센텀의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.",
 			 "url": "https://www.daincounseling.co.kr/Interior/84A"
 				 }
 				 `}
@@ -130,10 +130,10 @@ const Interior2 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        이천 부발역 에피트 - 84A84A인테리어
+        회천중앙역 로제비앙그랜드센텀 - 84A84A인테리어
       </h1>
       <p className={styles.screenReaderOnly}>
-        84A타입의 84A인테리어 페이지에서는 이천 부발역 에피트의 고급 84A인테리어
+        84A타입의 84A인테리어 페이지에서는 회천중앙역 로제비앙그랜드센텀의 고급 84A인테리어
         디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어,
         입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어
         스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
@@ -150,7 +150,7 @@ const Interior2 = () => {
           isImage2Loaded ? styles.showImage2 : ""
         }`}
         src={page1}
-        alt="이천 부발역 에피트84A인테리어84A-image2"
+        alt="회천중앙역 로제비앙그랜드센텀84A인테리어84A-image2"
         onLoad={handleImageLoad} // 이미지 로드 후 애니메이션 실행
       />
 

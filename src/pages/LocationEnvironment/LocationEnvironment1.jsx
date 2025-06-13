@@ -103,21 +103,21 @@ const LocationEnvironment1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>이천 부발역 에피트 - 입지안내</title>
+        <title>회천중앙역 로제비앙그랜드센텀 - 입지안내</title>
         <meta
           name="description"
           content="이 단지는 최적의 입지 조건과 우수한 교통망, 풍부한 생활 인프라, 쾌적한 녹지 환경이 완벽하게 어우러져, 편리한 생활과 미래 가치 상승을 기대할 수 있습니다. 입지안내를 통해 주변 시설, 접근성 및 발전 가능성을 상세히 확인해보세요"
         />
         <meta
           name="keywords"
-          content="이천 부발역 에피트, 이천 부발역 에피트"
+          content="회천중앙역 로제비앙그랜드센텀, 회천중앙역 로제비앙그랜드센텀"
         />
         <link rel="canonical" href="https://www.daincounseling.co.kr/LocationEnvironment/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="이천 부발역 에피트 - 입지안내"
+          content="회천중앙역 로제비앙그랜드센텀 - 입지안내"
         />
         <meta
           property="og:description"
@@ -131,13 +131,13 @@ const LocationEnvironment1 = () => {
           property="og:url"
           content="https://www.daincounseling.co.kr/LocationEnvironment/intro"
         />
-        <meta property="og:site_name" content="이천 부발역 에피트" />
+        <meta property="og:site_name" content="회천중앙역 로제비앙그랜드센텀" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="이천 부발역 에피트 - 입지안내"
+          content="회천중앙역 로제비앙그랜드센텀 - 입지안내"
         />
         <meta
           name="twitter:description"
@@ -158,7 +158,7 @@ const LocationEnvironment1 = () => {
 				 {
 			 "@context": "https://schema.org",
 			 "@type": "WebPage",
-			 "name": "이천 부발역 에피트 - 입지안내",
+			 "name": "회천중앙역 로제비앙그랜드센텀 - 입지안내",
 			 "description": "이 단지는 최적의 입지 조건과 우수한 교통망, 풍부한 생활 인프라, 쾌적한 녹지 환경이 완벽하게 어우러져, 편리한 생활과 미래 가치 상승을 기대할 수 있습니다. 입지안내를 통해 주변 시설, 접근성 및 발전 가능성을 상세히 확인해보세요",
 			 "url": "https://www.daincounseling.co.kr/LocationEnvironment/intro"
 				 }
@@ -174,10 +174,10 @@ const LocationEnvironment1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        이천 부발역 에피트 - 입지안내
+        회천중앙역 로제비앙그랜드센텀 - 입지안내
       </h1>
       <p className={styles.screenReaderOnly}>
-        이천 부발역 에피트의 입지 안내 페이지는 이 단지의 위치와 주변 인프라에
+        회천중앙역 로제비앙그랜드센텀의 입지 안내 페이지는 이 단지의 위치와 주변 인프라에
         대한 상세 정보를 제공합니다. 교통, 교육, 상업시설 등 다양한 생활 편의
         시설을 고려하여 이 아파트가 제공하는 생활 환경을 종합적으로 살펴볼 수
         있습니다. 입지 조건을 바탕으로 더 나은 선택을 할 수 있도록 돕습니다.
@@ -186,13 +186,13 @@ const LocationEnvironment1 = () => {
       <div className={styles.textBox}>
         <div>갈수록 완벽해질 용곡지구</div>
         <div>살수록 높아질 </div>
-        <div>도시를 압도할 자부심이천 부발역 에피트</div>
+        <div>도시를 압도할 자부심회천중앙역 로제비앙그랜드센텀</div>
       </div>
 
       <img
         src={page1}
         className={styles.image2}
-        alt="이천 부발역 에피트입지안내-image1"
+        alt="회천중앙역 로제비앙그랜드센텀입지안내-image1"
       />
 
       <div className={styles.section2}>
