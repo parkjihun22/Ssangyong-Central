@@ -9,7 +9,7 @@ import Bener from "../../components/Bener/Bener";
 import FixIcon from "../../components/FixIcon/FixIcon";
 import { Helmet } from "react-helmet-async";
 
-import page1 from "../../assets/Brand/intro/page1.jpg";
+import page1 from "../../assets/Brand/intro/img_brand.jpg";
 
 const Brand1 = () => {
   const menuContents = [
@@ -131,7 +131,7 @@ const Brand1 = () => {
       <Header isChanged={isScroll} />
       <FixIcon />
 
-      <Bener title="푸르지오" />
+      <Bener title="회천중앙역 로제비앙" />
 
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
@@ -150,7 +150,7 @@ const Brand1 = () => {
         className={`${styles.textBox} ${isTextVisible ? styles.active : ""}`}
       >
         <div>생활의 모든 것을 한걸음에</div>
-        <div>회천중앙역 로제비앙그랜드센텀, 천안의 중심에 서다</div>
+        <div>회천중앙역 로제비앙</div>
       </div>
 
       <img

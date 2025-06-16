@@ -10,7 +10,7 @@ import FixIcon from "../../components/FixIcon/FixIcon";
 import Ready from "../../components/Ready/Ready";
 import HelmetCOM from "../../components/HelmetCOM/HelmetCOM";
 import { Helmet } from "react-helmet-async";
-import page1 from "../../assets/LocationEnvironment/LocationEnvironment2/page1.jpg";
+import page1 from "../../assets/LocationEnvironment/LocationEnvironment2/img_premium.jpg";
 
 const LocationEnvironment1 = () => {
   const menuContents = [
@@ -138,7 +138,7 @@ const LocationEnvironment1 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>천안의 눈부신 가치 위에</div>
+        <div>양주의 눈부신 가치 위에</div>
         <div>회천중앙역 로제비앙의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 

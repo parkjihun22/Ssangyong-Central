@@ -12,9 +12,9 @@ import page1 from "../../assets/BusinessGuide/BusinessGuide2/page1.jpg";
 
 const BusinessGuide2 = () => {
   const menuContents = [
-    { title: "분양일정", url: "/BusinessGuide/intro" },
+    { title: "사업안내", url: "/BusinessGuide/intro" },
     { title: "분양일정", url: "/BusinessGuide/plan" },
-    { title: "선착순계약 서류안내", url: "/BusinessGuide/documents" },
+    // { title: "선착순계약 서류안내", url: "/BusinessGuide/documents" },
   ];
   const [isScroll, setIsScroll] = useState(false);
   const [isImageVisible, setIsImageVisible] = useState(false); // isImageVisible 상태 추가
@@ -140,7 +140,7 @@ const BusinessGuide2 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>천안 쌍용역의 눈부신 가치 위에</div>
+        <div>양주의 눈부신 가치 위에</div>
         <div>회천중앙역 로제비앙의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 

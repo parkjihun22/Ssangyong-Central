@@ -140,7 +140,7 @@ const Interior2 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>천안 쌍용역의 눈부신 가치 위에</div>
+        <div>양주의 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 

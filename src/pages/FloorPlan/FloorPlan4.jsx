@@ -60,7 +60,7 @@ const FloorPlan4 = () => {
 			<MenuBar contents={menuContents} />
 
 			<div className={styles.textBox}>
-				<div>천안 쌍용역의의 눈부신 가치 위에</div>
+				<div>양주의의 눈부신 가치 위에</div>
 				<div>회천중앙역 로제비앙그랜드센텀의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 

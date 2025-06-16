@@ -10,7 +10,7 @@ import FixIcon from "../../components/FixIcon/FixIcon";
 import LocationSectionBox from "../../components/LocationSectionBox/LocationSectionBox";
 import { Helmet } from "react-helmet-async";
 
-import page1 from "../../assets/LocationEnvironment/LocationEnvironment1/page1.jpg";
+import page1 from "../../assets/LocationEnvironment/LocationEnvironment1/img_location.jpg";
 import section2Image1 from "../../assets/LocationEnvironment/LocationEnvironment1/session2-1.jpg";
 import section2Image2 from "../../assets/LocationEnvironment/LocationEnvironment1/session2-2.jpg";
 import section2Image3 from "../../assets/LocationEnvironment/LocationEnvironment1/session2-3.jpg";

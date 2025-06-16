@@ -26,14 +26,14 @@ const menuArray = [
     subMenu: [
       { subTitle: "사업안내", subUrl: "/BusinessGuide/intro" },
       { subTitle: "분양일정", subUrl: "/BusinessGuide/plan" },
-      { subTitle: "선착순계약 서류안내", subUrl: "/BusinessGuide/documents" },
+      // { subTitle: "선착순계약 서류안내", subUrl: "/BusinessGuide/documents" },
     ],
   },
 
   {
     title: "입지환경",
     subMenu: [
-      { subTitle: "입지안내영상", subUrl: "/FloorPlan/videos" },
+      // { subTitle: "입지안내영상", subUrl: "/FloorPlan/videos" },
       { subTitle: "입지안내", subUrl: "/LocationEnvironment/intro" },
       { subTitle: "프리미엄", subUrl: "/LocationEnvironment/primium" },
     ],
@@ -49,19 +49,20 @@ const menuArray = [
   {
     title: "세대안내",
     subMenu: [
-      { subTitle: "59㎡", subUrl: "/FloorPlan/59A" },
-      { subTitle: "84㎡", subUrl: "/FloorPlan/59B" },
+      { subTitle: "84A㎡", subUrl: "/FloorPlan/59A" },
+      { subTitle: "84B㎡", subUrl: "/FloorPlan/59B" },
+      { subTitle: "84C㎡", subUrl: "/FloorPlan/84A" },
 
     ],
   },
-  {
-    title: "인테리어",
-    subMenu: [
-      { subTitle: "59㎡", subUrl: "/Interior/59A" },
-      { subTitle: "84㎡", subUrl: "/Interior/84A" },
+  // {
+  //   title: "인테리어",
+  //   subMenu: [
+  //     { subTitle: "59㎡", subUrl: "/Interior/59A" },
+  //     { subTitle: "84㎡", subUrl: "/Interior/84A" },
 
-    ],
-  },
+  //   ],
+  // },
 ];
 
 const Header = () => {

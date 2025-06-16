@@ -15,9 +15,10 @@ import page1 from "../../assets/FloorPlan/FloorPlan1/page1.jpg";
 
 const FloorPlan1 = () => {
   const menuContents = [
-    { title: "59㎡", url: "/FloorPlan/59A" },
-    { title: "84㎡", url: "/FloorPlan/59B" },
-    { title: "세대안내영상", url: "/FloorPlan/videos" }, // 세대안내영상 링크
+    { title: "84A㎡", url: "/FloorPlan/59A" },
+    { title: "84B㎡", url: "/FloorPlan/59B" },
+    { title: "84C㎡", url: "/FloorPlan/84A" },
+    // { title: "세대안내영상", url: "/FloorPlan/videos" }, // 세대안내영상 링크
   ];
 
   const [isScroll, setIsScroll] = useState(false);
@@ -144,7 +145,7 @@ const FloorPlan1 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>천안 쌍용역의 눈부신 가치 위에</div>
+        <div>양주의 눈부신 가치 위에</div>
         <div>회천중앙역 로제비앙의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 

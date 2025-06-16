@@ -140,7 +140,7 @@ const FloorPlanVideos= () => {
 			</p>
 
 			<div className={styles.textBox}>
-				<div>천안 쌍용역의 눈부신 가치위에 찾아오는는</div>
+				<div>양주의 눈부신 가치위에 찾아오는는</div>
 				<div>회천중앙역 로제비앙의 가치를 영상으로 확인해보세요</div>
 			</div>
 

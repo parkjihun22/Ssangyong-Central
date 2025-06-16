@@ -12,21 +12,21 @@ import tableImage from "../../assets/BusinessGuide/BusinessGuide1/tableImage.jpg
 import { Helmet } from "react-helmet-async";
 
 const projectData = [
-  { label: "사업명", value: "회천중앙역 로제비앙그랜드센텀" },
-  { label: "사업위치", value: "충청북도 천안시 서북구 쌍용동 198-2번지 39월지" },
-  { label: "대지면적", value: "29,583.00㎡" },
-  { label: "건축면적", value: "16,560.56㎡" },
-  { label: "연면적", value: "336,651.66㎡" },
-  { label: "용적률", value: "801.99%" },
-  { label: "건축규모", value: "지하 4층, 지상 최고 49층, 8개개동" },
-  { label: "세대수", value: "1,590세대 (시니어레지던스 505실, 근린생활시설 50대)" },
+  { label: "사업명", value: "회천중앙역 로제비앙 그랜드센텀" },
+  { label: "사업위치", value: "양주 회천지구 11A 블럭 일원" },
+  { label: "대지면적", value: "38,053.00㎡" },
+  { label: "건축면적", value: "5,193.56㎡" },
+  { label: "연면적", value: "113,709.66㎡" },
+  { label: "용적률", value: "189.93%" },
+  { label: "건축규모", value: "지하 2층, 지상 최고 49층, " },
+  { label: "세대수", value: "총 642세대 (84A·B·C)" },
 ];
 
 const BusinessGuide1 = () => {
   const menuContents = [
     { title: "사업안내", url: "/BusinessGuide/intro" },
     { title: "분양일정", url: "/BusinessGuide/plan" },
-    { title: "선착순계약 서류안내", url: "/BusinessGuide/documents" },
+    // { title: "선착순계약 서류안내", url: "/BusinessGuide/documents" },
   ];
   const [isScroll, setIsScroll] = useState(false);
   const { pathname } = useLocation(); // 현재 경로를 가져옴
@@ -145,8 +145,7 @@ const BusinessGuide1 = () => {
 
       <div className={styles.textBox}>
         <div>
-          천안의 쌍용에서 프리미엄을 누리는 특별한 라이프
-          컬렉션
+          양주의 에서 프리미엄을 누리는 특별한 라이프컬렉션
         </div>
         <div>회천중앙역 로제비앙그랜드센텀의 새로운 자부심으로 찾아옵니다.</div>
       </div>
