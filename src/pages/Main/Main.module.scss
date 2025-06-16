@@ -45,7 +45,7 @@
 .mainImageTextBox {
     font-weight: 900;
     position: absolute;
-    top: 37%;
+    top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: #FFFFFF;
@@ -56,7 +56,7 @@
 }
 
 .mainImageTextSub {
-    font-size: 17px; /* 텍스트2와 크기 동일 */
+    font-size: 1vw; /* 텍스트2와 크기 동일 */
     color: #4d4a4a;
     font-weight: normal;
     margin-bottom: 10px;
@@ -84,7 +84,7 @@
 .mainImageText {
     font-family: 'GongGothicMedium';
     font-weight: 400;
-    font-size: 48px; /* 텍스트2 가장 큰 크기 */
+    font-size: 2vw; /* 텍스트2 가장 큰 크기 */
     margin: 1vw 0;
     color: #122447; /* 파랑 색상 */
 }
