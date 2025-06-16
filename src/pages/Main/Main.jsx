@@ -501,7 +501,7 @@ const Main = () => {
             <div className={styles.textBox}>
               <div className={styles.title}>
                회천중앙 신도시의 중심으로 사는<br />
-                <span>착한 조건 민간임대 아파트</span>
+                <span>착한 조건  아파트</span>
               </div>
               <div className={styles.subTitle}>
                 <div className={styles.textLine}></div>
