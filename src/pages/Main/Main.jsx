@@ -168,7 +168,7 @@ const Main = () => {
         // PC 버전
         <>
           <Header isChanged={isScroll} />
-          {isOpenPopup1 && (
+          {/* {isOpenPopup1 && (
             <Popup
               onClosed={() => setIsOpenPopup1(false)}
               popupImage={popupPage1}
@@ -188,19 +188,19 @@ const Main = () => {
               popupImage={popupPage3}
               numbering={3}
             />
-          )}
+          )} */}
 
           <div className={styles.imageContainer}>
             <img src={mainImage} className={styles.mainImage} alt="회천중앙역 로제비앙그랜드센텀-mainimage1" />
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox}>
               <div className={styles.mainImageTextSub}>
-                메머드급 대단지 <span className={styles.greyText}>1.937세대</span> | 부담을 덜어주는 <span className={styles.greyText}>착한 옵션</span> | 저렴한 확정분양가 <span className={styles.greyText}>착한조건</span>
+                압도적인 <span className={styles.greyText}>역세권입지</span> | 부담을 덜어주는 <span className={styles.greyText}>착한 옵션</span> | 분양가상한제 합리적으로 <span className={styles.greyText}>내집마련</span>
               </div>
               <div className={styles.mainImageTitleBox}>
-                <div className={styles.mainImageText}>천안이 기다린 가장 착한 아파트</div>
+                <div className={styles.mainImageText}>양주가 기다린 가장 착한 아파트</div>
                 <div className={styles.mainImageLine}></div>
-                <div className={styles.mainImageText}>회천중앙역 로제비앙그랜드센텀</div>
+                <div className={styles.mainImageText}>회천중앙역 로제비앙</div>
               </div>
               {/* 기존 관심고객 등록 링크 대신 방문예약 버튼 클릭 시 팝업 오픈 */}
               <div>
@@ -227,13 +227,19 @@ const Main = () => {
                   " 방문 예약 고객 전원 스타벅스 기프티콘 100% 증정 "
                 </div>
                 <div className={styles.text3}>
-                  - 용곡지구 도시개발등으로 인근 발전 가능성 多 <br />
-                  - 쌍용역 1호선 도보 10분이내 근접 <br />
-                  - 당 사업지 반경 도보권내 수곡초, 신방중 위치로 안심학세권 <br />
+                  - 신도시 중심에서의 개발등으로 인근 발전 가능성 多 <br />
+                  - 중앙 덕계역까지 단 5분 <br />
+                  - 분양가 상한제로 합리적인 내집마련 기회 <br />
                   - 모두를 누리는 회천중앙역 로제비앙그랜드센텀
                 </div>
                 <div className={styles.text4}>
-                  <a href="https://naver.me/55rUFpYq" target="_black">
+                <a
+                    href="#"
+                    onClick={(e) => {
+                      e.preventDefault();
+                      setIsInterestPopupOpen(true);
+                    }}
+                  >
                     관심고객 등록하기 {">"}
                   </a>
                 </div>
@@ -252,7 +258,7 @@ const Main = () => {
               <div className={styles.textBox}>
                 <div className={styles.title}>
                   소수만 누릴 수 있는<br />
-                  <span>착한가격의 아파트 회천중앙역 로제비앙그랜드센텀</span>
+                  <span>착한가격의 아파트<br /> 회천중앙역 로제비앙</span>
                 </div>
                 <div className={styles.subTitle}>
                   <div className={styles.textLine}></div>
@@ -417,7 +423,7 @@ const Main = () => {
       ) : (
         // 모바일 버전
         <div className={styles.mobileMain}>
-          {isOpenPopup1 && (
+          {/* {isOpenPopup1 && (
             <MobilePopup
               onClosed={() => setIsOpenPopup1(!isOpenPopup1)}
               popupImage={mobilePopupPage1}
@@ -444,7 +450,7 @@ const Main = () => {
               popupImage={mobilePopupPage3}
               numbering={4}
             />
-          )}
+          )} */}
 
           <Header isChanged={isScroll} />
 
@@ -453,16 +459,16 @@ const Main = () => {
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox1}>
               <div className={styles.mainImageTextSub1}>
-                메머드급 대단지<br />
-                <span className={styles.greyText}>1,590세대</span><br />
+                회천중앙역 도보5분<br />
+                <span className={styles.greyText}>역세권프리미엄</span><br />
                 부담을 덜어주는<br />
-                <span className={styles.greyText}>착한 옵션</span><br />
-                저렴한 확정 분양가<br />
-                <span className={styles.greyText}>착한조건</span>
+                <span className={styles.greyText}>착한옵션</span><br />
+                분양가상한제로 합리적인<br />
+                <span className={styles.greyText}>내집마련조건</span>
               </div>
               <div className={styles.mainImageTitleBox1}>
-                <div className={styles.mainImageText1}>천안 기다린<br /> 가장 착한 아파트</div>
-                <div className={styles.mainImageText5}>회천중앙역 로제비앙그랜드센텀</div>
+                <div className={styles.mainImageText1}>양주가 기다린<br /> 가장 착한 아파트</div>
+                <div className={styles.mainImageText5}>회천중앙역 로제비앙</div>
               </div>
             </div>
           </div>
@@ -473,29 +479,35 @@ const Main = () => {
               "방문예약을 하시면 신세계 상품권 100% 증정 "
             </div>
             <div className={styles.text3}>
-              - 용곡지구 도시개발등으로 인근 발전 가능성 多<br />
-              - 쌍용역 1호선 도보권 이용가능<br />
-              - 당 사업지 초등학교, 중학교 도보권 내 가능 안심학세권 <br />
-              - 천안 쌍용의 중심에서 누리는 주거 타운의 완성
+                  - 신도시 중심에서의 개발등으로 인근 발전 가능성 多 <br />
+                  - 중앙 덕계역까지 단 5분 <br />
+                  - 분양가 상한제로 합리적인 내집마련 기회 <br />
+                  - 모두를 누리는 회천중앙역 로제비앙그랜드센텀
             </div>
             <div className={styles.text4}>
-              <a href="https://naver.me/55rUFpYq" target="_black">
-                관심고객 등록하기 {">"}
-              </a>
+            <a
+                    href="#"
+                    onClick={(e) => {
+                      e.preventDefault();
+                      setIsInterestPopupOpen(true);
+                    }}
+                  >
+                    관심고객 등록하기 {">"}
+                  </a>
             </div>
           </div>
 
           <div className={styles.container7}>
             <div className={styles.textBox}>
               <div className={styles.title}>
-               천안 쌍용역 의 중심으로 사는<br />
+               회천중앙 신도시의 중심으로 사는<br />
                 <span>착한 조건 민간임대 아파트</span>
               </div>
               <div className={styles.subTitle}>
                 <div className={styles.textLine}></div>
                 <div className={styles.subText}>
                   완벽한 비전중심에서 완벽한 주거가치까지 더해<br />
-                  회천중앙역 로제비앙그랜드센텀이 함께합니다
+                  회천중앙역 로제비앙이 함께합니다
                 </div>
               </div>
             </div>
@@ -509,12 +521,12 @@ const Main = () => {
               </div>
               <div className={`${styles.text2} fadeUpRepeat`}>
                 기대한 모든 프리미엄이<br />
-                회천중앙역 로제비앙그랜드센텀에서 펼쳐집니다
+                회천중앙역 로제비앙그랜드센텀에서<br /> 펼쳐집니다
               </div>
               <div className={`${styles.text3} fadeUpRepeat`}>SPECIAL PLAN</div>
               <div className={`${styles.text4} fadeUpRepeat`}>
                 살수록 자부심이 차원이 다른<br />
-                프리미엄 주거라이프를 회천중앙역 로제비앙그랜드센텀 모델하우스에서 확인하세요
+                프리미엄 주거라이프를<br />  회천중앙역 모델하우스에서 확인하세요
               </div>
             </div>
             <img src={section2_Image1} alt="회천중앙역 로제비앙그랜드센텀mobile조감도-image1" />
@@ -543,7 +555,7 @@ const Main = () => {
 
           {/* 모바일 방문예약 섹션 */}
 <div className={styles.mobileVisitContainer}>
-  <h2>회천중앙역 로제비앙그랜드센텀</h2>
+  <h2>회천중앙역 로제비앙</h2>
   <p className={styles.mobileSubTitle}>방문예약</p>
   <p className={styles.mobileInfoText}>
     방문예약 등록 시 모델하우스 주소 SMS발송 및<br />
@@ -582,7 +594,7 @@ const Main = () => {
     <label htmlFor="message">문의 내용</label>
     <textarea
       name="message"
-      placeholder="문의 내용이 있을 경우 이곳에 남겨주세요."
+      placeholder="문의 내용 및 방문예정시간을 작성하여주세요"
       value={registration.message}
       onChange={handleInputChange}
       rows={5}
