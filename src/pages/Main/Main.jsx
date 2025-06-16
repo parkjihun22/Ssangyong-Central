@@ -48,8 +48,8 @@ const section3Contents = [
     imgSrc: section3_Image1,
     title: "PREMIUM 01",
     text1: `쾌적한 프리미엄 단지`,
-    text2: `일봉산 공원화 사업으로 쾌적한 주거생활 가능<br />
-            단지 앞 이마트, 상업시설 밀집지역으로  <br /> 생활 인프라 우수`,
+    text2: `단지 바로 앞 덕계천으로 힐링 프리미엄 및<br />
+            전세대 중형 4BAY 설계로<br /> 혁신설계 프리미엄`,
     link: "/BusinessGuide/intro",
     linkText: "더 알아보기 >",
   },
@@ -66,16 +66,16 @@ const section3Contents = [
     imgSrc: section3_Image3,
     title: "PREMIUM 03",
     text1: `광역교통망 프리미엄`,
-    text2: `쌍용역 1호선 (700m이내) 이용 용의<br />
-            남부대로를 통한 경부고속도로 접근 우수`,
+    text2: `1호선 회천중앙역(27년 12월 개통예정)<br />
+            GTX-C (28년 개통예정)`,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
   },
   {
     imgSrc: section3_Image4,
     title: "PREMIUM 04",
-    text1: `합리적인 분양가`,
-    text2: `10년 살아보고 결정하는 파격적인 조건으로<br />
+    text1: `분양가 상한제`,
+    text2: `분양가 상한제로 가장 합리적인 가격으로<br />
             내집마련의 기회`,
     link: "/LocationEnvironment/primium",
     linkText: "더 알아보기 >",
